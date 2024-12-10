@@ -94,7 +94,7 @@ function Payment() {
           <div>
             <div>{user?.email}</div>
             <div>123 React Lane</div>
-            <div>Chicago, IL</div>
+            <div>Addis Ababa, ETH</div>
           </div>
         </div>
         <hr />
